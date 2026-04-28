@@ -70,6 +70,30 @@ PlantGUI.m
 4. Display result in GUI
 
 ---
+## 📸 Project Preview
+
+### 🖥️ GUI Interface
+
+<p align="center">
+  <img src="imgs/gui.png" width="700"/>
+</p>
+
+**Description:**
+The graphical user interface allows users to upload plant leaf images, perform disease prediction, and view results including highlighted infected regions, HSV analysis, confidence score, and suggested remedies.
+
+---
+
+### 📊 Model Training Progress
+
+<p align="center">
+  <img src="imgs/training.png" width="700"/>
+</p>
+
+**Description:**
+This graph shows the training and validation performance of the model. Accuracy steadily improves over epochs while loss decreases, indicating effective learning and model convergence.
+
+---
+
 
 ## ⚠️ Note
 
